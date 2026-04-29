@@ -1,6 +1,6 @@
 # 🏢 Milano Bina Tespiti (U-Net + Sentinel-2)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KULLANICI_ADIN/REPO_ADIN/blob/main/milano_building_detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vf5iq7YoRgCv6FX_XYivlvGNZ0nSPJv9?usp=sharing)
 
 Uydu görüntüsünden derin öğrenme tabanlı **semantic segmentation** ile bina alanlarının otomatik tespiti. Çalışma alanı: Milano, İtalya (Via Luca Ghini bölgesi).
 
